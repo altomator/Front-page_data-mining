@@ -6,7 +6,7 @@ This work is a compagnon project of the [GallicaPix PoC](https://gallicapix.bnf.
 ## Face detection pipeline
 Various tools have been applied to the front page illustrations of Excelsior newspaper: IBM Watson Visual Recognition, Google Cloud Vision, OpenCV/dnn. See this [github](https://github.com/altomator/Image_Retrieval). 
 
-![Faces](https://github.com/altomator/Ads-data_mining/blob/master/ads/airplanes/airplane4.jpg)
+![Faces](https://github.com/altomator/Front-page_data-mining/blob/main/images/faces.jpg)
 
 
 
