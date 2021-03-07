@@ -1,4 +1,4 @@
-# Newspaper front page faces data mining
+# Newspapers front page: human faces data mining
 
 This work is a compagnon project of the [GallicaPix PoC](https://gallicapix.bnf.fr/). It leverages a dataset of heritage French periodicals  built under the [GallicaPix](https://github.com/altomator/Image_Retrieval) scope.
 
@@ -18,7 +18,6 @@ The following charts make use of the quantity of faces detected and show the evo
 - women group (from 1 to x women)
 - mixed group (from 1 to x persons)
 - couple (one man and one woman)
-
 
 
 
