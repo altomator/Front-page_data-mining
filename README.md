@@ -20,11 +20,9 @@ The following charts make use of the quantity of faces detected and show the evo
 - couple (one man and one woman)
 
 
-![Means of transport vs other ads, per year](http://www.euklides.fr/blog/altomator/Image_Retrieval/Ads-data-mining/total-year.jpg)
-[Means of transport vs other ads, per year](http://www.euklides.fr/blog/altomator/Image_Retrieval/Ads-data-mining/Periodical_FR_1910-1920_ads-year.htm)
 
-![Means of transport illustrated ads, per month](http://www.euklides.fr/blog/altomator/Image_Retrieval/Ads-data-mining/total-month.jpg)
-Means of transport illustrated ads, per month: [% of published ads per page](http://www.euklides.fr/blog/altomator/Image_Retrieval/Ads-data-mining/Periodical_FR_1910-1920_mean-ads-month.htm) and [total of published ads](http://www.euklides.fr/blog/altomator/Image_Retrieval/Ads-data-mining/Periodical_FR_1910-1920_total-ads-month.htm)
+
+![Men and women faces](https://github.com/altomator/Introduction_to_Deep_Learning-2-Face_Detection/blob/main/images/faces-excelsior.jpg)
 
 
 
