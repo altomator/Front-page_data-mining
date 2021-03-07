@@ -1,4 +1,4 @@
-# Front-page-faces_data-mining
+# Newspaper front page faces data mining
 
 This work is a compagnon project of the [GallicaPix PoC](https://gallicapix.bnf.fr/). It leverages a dataset of heritage French periodicals  built under the [GallicaPix](https://github.com/altomator/Image_Retrieval) scope.
 
@@ -12,7 +12,13 @@ Both the detected faces and the genders have been manually corrected on the page
 
 
 ## Analysis
-The following charts mainly show the impact of the WW1 on the economy, through the quantity of ads published, and the evolution of transport techniques. 
+The following charts make use of the quantity of faces detected and show the evolution of the Excelsior editorial choices regarding human faces on the front pages, from 1910 to 1920. The categories analysed are :
+
+- men group (from 1 to x men)
+- women group (from 1 to x women)
+- mixed group (from 1 to x persons)
+- couple (one man and one woman)
+
 
 ![Means of transport vs other ads, per year](http://www.euklides.fr/blog/altomator/Image_Retrieval/Ads-data-mining/total-year.jpg)
 [Means of transport vs other ads, per year](http://www.euklides.fr/blog/altomator/Image_Retrieval/Ads-data-mining/Periodical_FR_1910-1920_ads-year.htm)
