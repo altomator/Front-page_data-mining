@@ -19,11 +19,9 @@ The following charts make use of the quantity of faces detected and show the evo
 - mixed group (from 1 to x persons)
 - couple (one man and one woman)
 
-
-
 [![Men and women faces](https://github.com/altomator/Introduction_to_Deep_Learning-2-Face_Detection/blob/main/images/faces-excelsior.jpg)](https://altomator.github.io/Introduction_to_Deep_Learning-2-Face_Detection/Excelsior/Graphes/faces-year-EN.htm)
 
-
+See some samples [here](https://github.com/altomator/Introduction_to_Deep_Learning-2-Face_Detection/tree/gh-pages/Excelsior).
 
 
 
