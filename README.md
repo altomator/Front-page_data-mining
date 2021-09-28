@@ -21,7 +21,7 @@ The following charts make use of the quantity of faces detected and show the evo
 
 
 
-![Men and women faces](https://github.com/altomator/Introduction_to_Deep_Learning-2-Face_Detection/blob/main/images/faces-excelsior.jpg)
+[![Men and women faces](https://github.com/altomator/Introduction_to_Deep_Learning-2-Face_Detection/blob/main/images/faces-excelsior.jpg)](https://altomator.github.io/Introduction_to_Deep_Learning-2-Face_Detection/Excelsior/Graphes/faces-year-EN.htm)
 
 
 
